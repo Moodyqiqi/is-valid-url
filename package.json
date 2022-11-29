@@ -1,0 +1,19 @@
+{
+  "name": "is-valid-url",
+  "version": "1.0.0",
+  "description": "check given string is a valid url",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moodyqiqi/is-valid-url.git"
+  },
+  "keywords": [
+    "URL"
+  ],
+  "author": "abel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moodyqiqi/is-valid-url/issues"
+  },
+  "homepage": "https://github.com/Moodyqiqi/is-valid-url#readme"
+}
